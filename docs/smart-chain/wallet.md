@@ -18,3 +18,4 @@
 |12|[1inch wallet](https://www.youtube.com/watch?v=BXFvPMxJ4_Q)|<https://1inch.io/wallet/>|No|
 |13|[Infinity wallet](./wallet/infinitywallet.md) (Desktop)| <https://infinitywallet.io/download/> |No|
 |14|[BitKeep](./wallet/bitkeep.md) (App&Chrome)|<https://bitkeep.com>|No|
+|15|[Encrypted Ink](https://twitter.com/EncryptedInk/status/1424444088565256200)|<https://encrypted.ink/macos>|No|
